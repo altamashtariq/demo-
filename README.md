@@ -1,3 +1,4 @@
 # demo-
-this is my first git repository
-author - altamash tariq
+this is my first git repository.
+<br>
+Author - altamash tariq.
